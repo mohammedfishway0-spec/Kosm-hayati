@@ -1,1 +1,1 @@
-schema-entrepreneur-per-giving.trycloudflare.com
+deny-ira-permission-synthetic.trycloudflare.com
