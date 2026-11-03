@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-knit-preference-script-byte.trycloudflare.com
-=======
-plots-blah-acknowledge-attempted.trycloudflare.com
->>>>>>> Stashed changes
+florida-hats-endangered-job.trycloudflare.com
