@@ -1,1 +1,1 @@
-reg-basically-claimed-them.trycloudflare.com
+trusts-confidence-browsing-privileges.trycloudflare.com
